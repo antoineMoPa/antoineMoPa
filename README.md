@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software team lead at Lumen5, a pretty cool startup from BC, Canada.
+I'm a software team lead at [Lumen5](https://lumen5.com/), a pretty cool startup from BC, Canada.
 
 My current side project is [prflow.dev](https://prflow.dev/), a tool to track metrics for software engineering teams. You can find it on github [here](https://github.com/antoineMoPa/prflow.dev).
 

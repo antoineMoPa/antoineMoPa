@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software team lead at Lumen5, a pretty cool startup from BC, Canada.
+
+My current side project is [prflow.dev](https://prflow.dev/), a tool to track metrics for software engineering teams. You can find it on github [here](https://github.com/antoineMoPa/prflow.dev).
+
+I'm always learning and coding something new! Look at my pinned projects if you are curious.
 <!--
 **antoineMoPa/antoineMoPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

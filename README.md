@@ -4,7 +4,6 @@ I'm a software team lead at [Lumen5](https://lumen5.com/), a pretty cool startup
 
 My current side projects are:
 
-* [prflow.dev](https://prflow.dev/), a tool to track metrics for software engineering teams. You can find it on github [here](https://github.com/antoineMoPa/prflow.dev).
 * [rust-text-experiments](https://github.com/antoineMoPa/rust-text-experiments/blob/main/docs/attention_predictor.md), where I'm learning llm fundamentals.
 
 

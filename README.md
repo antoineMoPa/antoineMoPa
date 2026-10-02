@@ -2,7 +2,8 @@
 
 My current side projects are:
 
-* [rust-text-experiments](https://github.com/antoineMoPa/rust-text-experiments/blob/main/docs/attention_predictor.md), where I'm learning llm fundamentals.
+* [moon-dev-tools](https://antoinemopa.github.io/moon-dev-tools/) - Agentic work operating system
+* [claydash](https://github.com/antoineMoPa/claydash) - 3D editor based on signed distance fields
 
 I'm always learning and coding something new! Look at my pinned projects if you are curious.
 
